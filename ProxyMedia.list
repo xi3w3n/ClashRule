@@ -320,15 +320,7 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
 
 # Spotify
-USER-AGENT,Spotify*
-DOMAIN-KEYWORD,-spotify-com
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN,apresolve.spotify.com
 
 # TIDAL
 USER-AGENT,TIDAL*
