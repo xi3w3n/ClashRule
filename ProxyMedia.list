@@ -321,6 +321,7 @@ DOMAIN-SUFFIX,soundcloud.com
 
 # Spotify
 DOMAIN,apresolve.spotify.com
+DOMAIN,open.spotify.com
 
 # TIDAL
 USER-AGENT,TIDAL*
