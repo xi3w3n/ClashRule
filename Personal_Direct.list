@@ -1,6 +1,6 @@
 # playstation下载
-DOMAIN,dl.playstation.net
-DOMAIN,update.playstation.net
+DOMAIN-SUFFIX,dl.playstation.net
+DOMAIN-SUFFIX,update.playstation.net
 DOMAIN-SUFFIX,np.communication.playstation.net
 
 # Spotify
