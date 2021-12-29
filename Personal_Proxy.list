@@ -1,4 +1,8 @@
-# 内容：游戏
+# 游戏
 DOMAIN-KEYWORD,callofduty
 DOMAIN-KEYWORD,activision
 DOMAIN-SUFFIX,demonware.net
+
+# Spotify
+DOMAIN,apresolve.spotify.com
+DOMAIN,open.spotify.com
