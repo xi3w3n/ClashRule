@@ -7,26 +7,6 @@ DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,www.googleapis.com
 
-# OneDrive
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,oneclient.sfx.ms
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,photos.live.com
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
-DOMAIN-SUFFIX,skydrive.wns.windows.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
-
 # 其他下载站
 DOMAIN-SUFFIX,usersdrive.com
 DOMAIN-SUFFIX,ufile.io
