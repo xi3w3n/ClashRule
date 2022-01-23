@@ -1,13 +1,8 @@
-# Spotify
 DOMAIN,apresolve.spotify.com
 DOMAIN,open.spotify.com
-
-# H萌娘
 DOMAIN-SUFFIX,hmoegirl.com
-
-# Oracle
 DOMAIN-SUFFIX,cloud.oracle.com
-
-# 品云机场导航
 DOMAIN-SUFFIX,id9.cc
 DOMAIN-SUFFIX,52.mk
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,merlinblog.xyz
