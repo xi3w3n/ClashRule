@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,52.mk
 DOMAIN-SUFFIX,fanqiang.network
 DOMAIN-SUFFIX,bianyuan.xyz
 DOMAIN-SUFFIX,18comic.org
+DOMAIN,accounts.spotify.com
+DOMAIN,apresolve.spotify.com
+#DOMAIN,spclient.wg.spotify.com
