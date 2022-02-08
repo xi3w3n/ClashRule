@@ -1,8 +1,5 @@
 DOMAIN,gae2-spclient.spotify.com
 DOMAIN,ap-gae2.spotify.com
-DOMAIN,accounts.spotify.com
-DOMAIN,apresolve.spotify.com
-DOMAIN,login5.spotify.com
 DOMAIN,open.spotify.com
 DOMAIN-SUFFIX,hmoegirl.com
 DOMAIN-SUFFIX,cloud.oracle.com
@@ -11,4 +8,3 @@ DOMAIN-SUFFIX,52.mk
 DOMAIN-SUFFIX,fanqiang.network
 DOMAIN-SUFFIX,bianyuan.xyz
 DOMAIN-SUFFIX,18comic.org
-#DOMAIN,spclient.wg.spotify.com
