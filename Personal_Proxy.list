@@ -1,4 +1,4 @@
-#DOMAIN,spclient.wg.spotify.com
+DOMAIN,gae2-spclient.spotify.com
 DOMAIN,open.spotify.com
 DOMAIN-SUFFIX,hmoegirl.com
 DOMAIN-SUFFIX,cloud.oracle.com
@@ -7,4 +7,3 @@ DOMAIN-SUFFIX,52.mk
 DOMAIN-SUFFIX,fanqiang.network
 DOMAIN-SUFFIX,bianyuan.xyz
 DOMAIN-SUFFIX,18comic.org
-DOMAIN-SUFFIX,scdn.co
