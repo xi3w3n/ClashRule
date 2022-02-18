@@ -1,0 +1,9 @@
+dns:
+  enable: true
+  ipv6: true
+  nameserver:
+  - 119.29.29.29
+  - "[2402:4e00::]:53"
+  fallback:
+  - https://1.0.0.1/dns-query
+  - https://[2606:4700:4700::1001]/dns-query
