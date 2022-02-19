@@ -1,10 +1,2 @@
-# Sony
-#DOMAIN-SUFFIX,playstation.net
-
-# 使命召唤
-#DOMAIN-SUFFIX,callofduty.com
-#DOMAIN-SUFFIX,activision.com
-#DOMAIN-SUFFIX,demonware.net
-
-#本地ip加速
+#PS4
 SRC-IP-CIDR,192.168.1.104/32
