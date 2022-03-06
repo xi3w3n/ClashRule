@@ -8,13 +8,13 @@ mode: rule
 log-level: info
 external-controller: :9090
 ipv6: true
-dns:
-  enable: true
-  ipv6: true
-  listen: 0.0.0.0:7874
-  nameserver:
-  - 119.29.29.29
-  - "[2402:4e00::]:53"
+# dns:
+#   enable: true
+#   ipv6: true
+#   listen: 0.0.0.0:7874
+#   nameserver:
+#   - 119.29.29.29
+#   - "[2402:4e00::]:53"
   # fallback:
   # - tls://8.8.4.4:853
   # - tls://[2001:4860:4860::8844]:853
