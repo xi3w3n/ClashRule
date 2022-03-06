@@ -13,7 +13,5 @@ dns:
   ipv6: true
   listen: 0.0.0.0:7874
   enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
   nameserver:
   - 119.29.29.29
-  - "[2402:4e00::]:53"
