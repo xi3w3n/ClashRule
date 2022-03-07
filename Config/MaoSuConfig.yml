@@ -1,15 +1,11 @@
 allow-lan: true
 mode: rule
 log-level: info
-external-controller: :9090
 ipv6: true
 dns:
   enable: true
   ipv6: true
-  enhanced-mode: fake-ip
   nameserver:
   - 119.29.29.29
   fallback:
   - tls://8.8.4.4:853
-  fake-ip-filter:
-  - 192.168.1.104
