@@ -7,7 +7,7 @@ dns:
   enable: true
   ipv6: true
   enhanced-mode: fake-ip
-  # nameserver:
-  # - dhcp://en0
+  nameserver:
+  - system
   fallback:
   - tls://8.8.4.4:853
