@@ -8,7 +8,7 @@ dns:
   ipv6: true
   enhanced-mode: fake-ip
   nameserver:
-  - dhcp://system
+  - dhcp://en0
 
   # - "[2402:4e00::]:53"
   # fallback:
