@@ -9,5 +9,8 @@ dns:
   enhanced-mode: fake-ip
   nameserver:
   - 119.29.29.29
-  fallback:
   - tls://8.8.4.4:853
+  # fallback:
+  # - tls://8.8.4.4:853
+  # fake-ip-filter:
+  # - "*.lan"
