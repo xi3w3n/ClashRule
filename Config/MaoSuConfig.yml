@@ -6,7 +6,7 @@ dns:
   enable: true
   ipv6: true
   nameserver:
-  # - dhcp://en0
+  - dhcp://en0
   - dhcp://system
   fallback:
   - tls://8.8.4.4:853
