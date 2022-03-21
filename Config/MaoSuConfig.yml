@@ -5,6 +5,8 @@ ipv6: true
 dns:
   enable: true
   ipv6: true
+  default-nameserver:
+  - 119.29.29.29  
   nameserver:
   - 119.29.29.29
   fallback:
