@@ -8,8 +8,7 @@ dns:
   default-nameserver:
   - 119.29.29.29
   nameserver:
-  - dhcp://"pppoe-wan"
-  - dhcp://"system"
+  - 119.29.29.29  
   fallback:
   - 101.6.6.6:5353
   fake-ip-filter:
