@@ -5,6 +5,9 @@ ipv6: true
 dns:
   enable: true
   ipv6: true
+  default-nameserver:
+  - dhcp://"pppoe-wan"
+  - dhcp://"system"
   nameserver:
   - dhcp://"pppoe-wan"
   - dhcp://"system"
