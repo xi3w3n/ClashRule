@@ -5,11 +5,11 @@ ipv6: true
 dns:
   enable: true
   ipv6: true
-  default-nameserver:
-  - 119.29.29.29
   nameserver:
   - 119.29.29.29
+  - 223.5.5.5
   fallback:
   - tls://8.8.4.4:853
+  - tls://1.0.0.1:853
   fake-ip-filter:
   - +.demonware.net
