@@ -1,3 +1,9 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+external-controller: 0.0.0.0:9090
 allow-lan: true
 mode: rule
 log-level: error
@@ -5,7 +11,11 @@ ipv6: true
 dns:
   enable: true
   ipv6: true
+  listen: 0.0.0.0:8053
   enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver:
+  - 119.29.29.29
   nameserver:
   - 119.29.29.29
   fallback:
