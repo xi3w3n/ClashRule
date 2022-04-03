@@ -1,6 +1,6 @@
 allow-lan: true
 mode: rule
-log-level: info
+log-level: error
 ipv6: true
 dns:
   enable: true
