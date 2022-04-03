@@ -5,6 +5,7 @@ ipv6: true
 dns:
   enable: true
   ipv6: true
+  enhanced-mode: fake-ip
   nameserver:
   - 119.29.29.29
   fallback:
