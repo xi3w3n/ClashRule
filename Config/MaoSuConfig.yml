@@ -14,5 +14,10 @@ dns:
   - tls://8.8.4.4:853
   fake-ip-filter:
   - +.demonware.net
-proxies:
-  - {name: "网易云解锁", server: 116.62.63.25, port: 53000, type: http, udp: true}
+proxy:
+- name: "网易云解锁"
+  type: http
+  server: 116.62.63.25
+  port: 53000
+# proxies:
+#   - {name: "网易云解锁", server: 116.62.63.25, port: 53000, type: http, udp: true}
