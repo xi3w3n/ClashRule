@@ -10,7 +10,9 @@ dns:
   - 119.29.29.29
   - 223.5.5.5
   fallback:
+  - tls://c.passcloud.xyz:853
+  # - 101.6.6.6:5353
   - tls://8.8.4.4:853
-  - tls://1.0.0.1:853
+  # - 208.67.220.220:443
   fake-ip-filter:
   - +.demonware.net
