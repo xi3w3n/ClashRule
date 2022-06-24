@@ -1,9 +1,3 @@
-DOMAIN-SUFFIX,hd.browser.miui.com
-DOMAIN-SUFFIX,httpdns.browser.miui.com
-DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
-DOMAIN-SUFFIX,nav.browser.miui.com
-DOMAIN-SUFFIX,r.browser.miui.com
-DOMAIN-SUFFIX,reader.browser.miui.com
-DOMAIN-SUFFIX,security.browser.miui.com
-DOMAIN-SUFFIX,hot.browser.intl.miui.com
-DOMAIN-SUFFIX,activity.browser.intl.miui.com
+DOMAIN-SUFFIX,browser.miui.com
+DOMAIN-SUFFIX,browser.intl.miui.com
+DOMAIN-SUFFIX,ssl-cdn.static.browser.mi-img.com
