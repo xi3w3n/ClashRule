@@ -2,4 +2,4 @@ DOMAIN-SUFFIX,browser.miui.com
 DOMAIN-SUFFIX,browser.intl.miui.com
 DOMAIN-SUFFIX,browser.mi-img.com
 DOMAIN-SUFFIX,reader.browser.miui.com,DIRECT
--DOMAIN-SUFFIX,security.browser.miui.com,DIRECT
+DOMAIN-SUFFIX,security.browser.miui.com,DIRECT
