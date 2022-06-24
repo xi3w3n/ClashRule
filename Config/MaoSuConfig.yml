@@ -9,7 +9,8 @@ dns:
   nameserver:
   - 119.29.29.29
   fallback:
-  - tls://8.8.4.4:853
+  - 101.6.6.6:5353
+  # - tls://8.8.4.4:853
   # - 208.67.220.220:443
   fake-ip-filter:
   - +.demonware.net
