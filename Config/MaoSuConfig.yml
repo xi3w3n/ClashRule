@@ -6,10 +6,11 @@ dns:
   enable: true
   ipv6: true
   enhanced-mode: fake-ip
+  default-nameserver:
+  - 223.5.5.5
   nameserver:
   - 223.5.5.5
   fallback:
   - tls://8.8.4.4:853
-  # - 208.67.220.220:443
   fake-ip-filter:
   - +.demonware.net
