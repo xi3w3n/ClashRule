@@ -1,8 +1,7 @@
 allow-lan: true
 mode: rule
 log-level: error
-# 仅在节点支持ipv6代理的情况下开启
-ipv6: false
+ipv6: true
 dns:
   enable: true
   ipv6: true
