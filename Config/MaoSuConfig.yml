@@ -6,6 +6,7 @@ dns:
   enable: true
   ipv6: true
   enhanced-mode: fake-ip
+  skip-cert-verify: true
   nameserver:
   - 127.0.0.1:53
   fallback:
