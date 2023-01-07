@@ -16,7 +16,8 @@ dns:
   fallback:
     - tls://8.8.4.4
     - tls://1.0.0.1
-    - quic://cn-south.ovo.glass
+    # - quic://cn-south.ovo.glass
+    - tcp://cn-south.ovo.glass:777
   fake-ip-filter:
     - '*.lan'
     - '*.linksys.com'
