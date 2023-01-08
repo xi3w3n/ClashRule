@@ -28,13 +28,15 @@ secret: ''
 
 
 proxies:
-- {name: MaoSuCloudflare, type: wireguard, server: 162.159.193.9, port: 2408, ip: 172.16.0.2, ipv6: "2606:4700:110:8f08:d69b:7cb1:18b9:df83", private-key: 0Ns9uEemd7Kp+Lsowwk62+JnXjSEbTAsE4PxWUEjYVQ=, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, mtu: '1420', udp: true}
+  - {name: "🇲🇾 马来西亚TM1[x0.75|NF|SSR]@240Mbps", server: csu-a03.stream.fnode.top, port: 25051, type: ssr, cipher: chacha20-ietf, password: fnf.xyz, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 15978:riUoXP, obfs-param: c1a3815978.wns.microsoft.com, udp: true}
+  - {name: MaoSuCloudflare, type: wireguard, server: 162.159.193.9, port: 2408, ip: 172.16.0.2, ipv6: "2606:4700:110:8f08:d69b:7cb1:18b9:df83", private-key: 0Ns9uEemd7Kp+Lsowwk62+JnXjSEbTAsE4PxWUEjYVQ=, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, mtu: '1420', udp: true}
 
 proxy-groups:
 -
   name: Proxy
   type: select
   proxies:
+    - 🇲🇾 马来西亚TM1[x0.75|NF|SSR]@240Mbps
     - 'MaoSuCloudflare'
 
 -
