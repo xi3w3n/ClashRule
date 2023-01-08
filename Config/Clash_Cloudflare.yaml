@@ -36,7 +36,7 @@ proxy-groups:
   name: Proxy
   type: select
   proxies:
-    - 🇲🇾 马来西亚TM1[x0.75|NF|SSR]@240Mbps
+    - '🇲🇾 马来西亚TM1[x0.75|NF|SSR]@240Mbps'
     - 'MaoSuCloudflare'
 
 -
