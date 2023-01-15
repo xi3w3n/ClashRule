@@ -97,6 +97,8 @@ dns:
     - '*.ffxiv.com'
     - '*.ff14.sdo.com'
     - 'ff.dorado.sdo.com'
+    - '+.demonware.net'
+    - '+.amazonaws.com'
     # Other
     - 'localhost.ptlogin2.qq.com'
     - 'localhost.sec.qq.com'
@@ -114,5 +116,3 @@ dns:
     - '+.nvgs.nvidia.com'
     - '+.nvgs.nvidia.cn'
     - 'shark007.net'
-    # 使命召唤
-    - +.demonware.net
