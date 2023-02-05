@@ -17,8 +17,7 @@ dns:
     - tls://8.8.4.4:853
     - https://1.0.0.1/dns-query
     - https://public.dns.iij.jp/dns-query
-    # - quic://cn-south.ovo.glass
-    - cn-south.ovo.glass:777
+    - https://cn-south.iqiqzz.com/dns-query
   fake-ip-filter:
     - '*.lan'
     - '*.linksys.com'
