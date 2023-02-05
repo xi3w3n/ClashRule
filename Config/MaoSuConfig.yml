@@ -16,7 +16,6 @@ dns:
   fallback:
     - tls://8.8.4.4:853
     - https://1.0.0.1/dns-query
-    - https://public.dns.iij.jp/dns-query
     - https://cn-south.iqiqzz.com/dns-query
   fake-ip-filter:
     - '*.lan'
