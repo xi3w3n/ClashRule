@@ -1,3 +1,7 @@
-DOMAIN-SUFFIX,genesis.stun.us.demonware.net
+DOMAIN-SUFFIX,stun.demonware.net
+DOMAIN-SUFFIX,stun.us.demonware.net
+DOMAIN-SUFFIX,stun.jp.demonware.net
+DOMAIN-SUFFIX,stun.eu.demonware.net
+DOMAIN-SUFFIX,stun.au.demonware.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,p76prod.systems
