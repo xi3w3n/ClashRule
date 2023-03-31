@@ -96,8 +96,6 @@ dns:
     - '*.ffxiv.com'
     - '*.ff14.sdo.com'
     - 'ff.dorado.sdo.com'
-    - '+.demonware.net'
-    - '+.amazonaws.com'
     # Other
     - 'localhost.ptlogin2.qq.com'
     - 'localhost.sec.qq.com'
