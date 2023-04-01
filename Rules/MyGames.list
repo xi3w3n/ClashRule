@@ -1,7 +1,7 @@
 DOMAIN-KEYWORD,loginservice.prod.demonware.net
 DOMAIN-SUFFIX,stun.demonware.net
-DOMAIN-SUFFIX,stun.us.demonware.net
 DOMAIN-SUFFIX,stun.jp.demonware.net
+DOMAIN-SUFFIX,stun.us.demonware.net
 DOMAIN-SUFFIX,stun.eu.demonware.net
 DOMAIN-SUFFIX,stun.au.demonware.net
 DOMAIN-SUFFIX,kingston-prod-cgw.ops.dice.se
