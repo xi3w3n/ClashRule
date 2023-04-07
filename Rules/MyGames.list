@@ -1,5 +1,5 @@
+SRC-IP-CIDR,192.168.1.104/32
 DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,kingston-prod-cgw.ops.dice.se
-DOMAIN-SUFFIX,blaze.ea.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,p76prod.systems
