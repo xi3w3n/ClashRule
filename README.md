@@ -1,1 +1,1 @@
-远程配置链接：https://raw.githubusercontent.com/MaoSuSu/Clash/master/MaoSu.ini
+远程配置链接：https://raw.githubusercontent.com/xi3w3n/ClashRule/master/MaoSu.ini
